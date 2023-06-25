@@ -14,3 +14,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: d2da8a5e0e46eaf8c016375c6eab8a11
           TIMEZONE: Asia/Ho_Chi_Minh
+          K_FORMAT: true
+          ALL_COMMITS: true
